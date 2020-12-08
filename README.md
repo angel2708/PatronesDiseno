@@ -10,4 +10,4 @@ conexion.php - hecha con el patron singleton que lo instancia una sola vez produ
 
 El patron de diseño que vamos a utilizar es el factory y el singleton y el *decorator - para mostrar datos pero de forma distinta *singleton - este patron consiste en que solo se puede instanciar una vez un objeto , en nuestro caso la conexion de base de datos , que lo que hace es que si no esta creado lo crea y si esta creado no hace nada *adapter - Este patron sirve para crear dos objetos de una instancia que solo se diferencian en algo en concreto. En nuestro caso será para crear usuarios que se diferencian entre clientes y empleados
 
-este el el link de nuestra pagina https://markblazquez.informaticailiberis.com/index.php
+este el el link de nuestra pagina https://markblazquez.informaticailiberis.com/practica%20de%20grupo/vista/index.php
