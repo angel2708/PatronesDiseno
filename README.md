@@ -33,7 +33,7 @@
             hace es consultar en la base de datos el tipo de usuario redirecciona a la pagina 
     *los patrones de diseño utilizados son: 
         **adapter----segun su el tipo de cliente le aplicara una funcion u otra 
-        **singleton----este patron consiste en que solo se puede instanciar una vez un objeto ,
-            en nuestro caso la conexion de base de datos , que lo que hace es que si no esta creado lo crea y si esta creado no hace nada 
+        **singleton----este patron consiste en que solo se puede instanciar una vez un objeto ,en nuestro 
+            caso la conexion de base de datos , que lo que hace es que si no esta creado lo crea y si esta creado no hace nada 
         **mvc----Este patron sirve para dar una estyructura coherente a nuestro proyecto e indicarnos su coonexion
     *este es el link de nuestra pagina https://markblazquez.informaticailiberis.com/practica%20de%20grupo/vista/index.php
